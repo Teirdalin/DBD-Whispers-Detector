@@ -1,0 +1,14 @@
+Copyright (c) 2025 Teirdalin
+
+All rights reserved.
+
+This software is provided for personal use only.
+
+You MAY NOT redistribute, re-upload, or share this software or any derivative works
+without explicit written permission from the author.
+
+The sounds used in the packaged files belong to their respective owners.
+
+You MAY NOT sell, sublicense, or distribute this software in any form.
+
+Use of this software is at your own risk. No warranties are provided.
